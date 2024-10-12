@@ -2,4 +2,4 @@
 
 This project categorises colleges based on the country provided.
 
-By Priyam Datta
+By Priyam Datta....
